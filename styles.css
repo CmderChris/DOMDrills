@@ -1,0 +1,29 @@
+.h1 {
+    color: rgb(255, 0, 234);
+    user-select: none;
+}
+
+.h2 {
+    color: rgb(0, 174, 255);
+    user-select: none;
+}
+
+.h3 {
+    color: rgb(0, 255, 149);
+    user-select: none;
+}
+
+.h4 {
+    color: rgb(61, 185, 45);
+    user-select: none;
+}
+
+.h5 {
+    color: rgb(204, 235, 102);
+    user-select: none;
+}
+
+.h6 {
+    color: rgb(235, 76, 76);
+    user-select: none;
+}
